@@ -1,0 +1,11 @@
+{
+  "x-kubernetes-group-version-kind": [
+    {
+      "kind": "Broker", 
+      "version": "v1alpha1", 
+      "group": "eventing.knative.dev"
+    }
+  ], 
+  "$schema": "http://json-schema.org/schema#", 
+  "type": "object"
+}

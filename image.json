@@ -1,0 +1,11 @@
+{
+  "x-kubernetes-group-version-kind": [
+    {
+      "kind": "Image", 
+      "version": "v1alpha1", 
+      "group": "caching.internal.knative.dev"
+    }
+  ], 
+  "$schema": "http://json-schema.org/schema#", 
+  "type": "object"
+}
